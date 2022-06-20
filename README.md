@@ -1,6 +1,7 @@
 # Estudos Praticos de javaScript
 
-## Desafio de notas escolares
+## 1. Desafio de notas escolares
+
 ### Transformar notas escolares
 
 - Crie um algoritimo que transfoorme as notas do sistema numérico para 
@@ -12,3 +13,13 @@ o sistema de notas em caracteres.
 * entre 70 - 79   -  C
 * entre 60 - 69   -  D
 * menor que 60     -  F
+
+## 2. Sistema de gastos familiar
+
+crie um objeto que possuirá 2 propiedades, ambas do tipo array:
+    - receitas: []
+    - despesas: []
+
+Agora, crie uma função que irá calcular o total de receitas e despesas e 
+irá mostrar uma mensagem se a família está com saldo positivo ou negativo,
+seguido do valor do saldo
