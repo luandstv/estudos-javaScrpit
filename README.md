@@ -34,14 +34,14 @@ F = C * 9/5 + 32
 
 ## 4. Buscando e contando dados em array
 
-    Baseado no array de livros por categoria abaixo, faça os seguintes desafios
+Baseado no array de livros por categoria abaixo, faça os seguintes desafios
 
-    - Contar o número de categorias e o número de livros em cada categoria
-    - Contar o número de autores
-    - mostrar livros do autor Agusto Cury
-    - transformar a função acima em uma funçõa que irá receber o nome do autor e devolver os livros desse autor
+- Contar o número de categorias e o número de livros em cada categoria
+- Contar o número de autores
+- mostrar livros do autor Agusto Cury
+- transformar a função acima em uma funçõa que irá receber o nome do autor e devolver os livros desse autor
 
-    ~~~
+ ```
     const booksByCategory = [
     {
         category: "Riqueza",
@@ -78,4 +78,4 @@ F = C * 9/5 + 32
         ]
     }
 ]
-~~~
+```
